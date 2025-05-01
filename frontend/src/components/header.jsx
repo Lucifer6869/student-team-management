@@ -8,7 +8,7 @@ const Header = () => {
         <nav className="nav">
           <Link to="/" className="logo">
             <FaUsers style={{ marginRight: '8px' }} />
-            Team Student Team Management
+            Team Student Management
           </Link>
           <div className="nav-links">
             <NavLink 
