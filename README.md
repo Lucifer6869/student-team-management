@@ -1,4 +1,4 @@
-# Team Maestro - Student Team Members Management Application
+# Team Student Management Application
 
 A beautiful React application for managing student team members. This project includes both frontend and backend components.
 
