@@ -7,7 +7,7 @@ const HomePage = () => {
       {/* Hero Section */}
       <section className="hero">
         <div className="container">
-          <h1>Welcome to Team Maestro</h1>
+          <h1>Welcome to Student Team Management</h1>
           <p>
             Streamline your team management with our intuitive platform. Add,
             view, and manage your team members all in one place.
@@ -147,7 +147,7 @@ const HomePage = () => {
                 Checkout our GitHub repository for more information.
               </p>
               <Link
-                to="https://github.com/LordHarsh/student-team-management"
+                to="https://github.com/Lucifer6869/student-team-management"
                 className="button outline"
                 style={{
                   display: "inline-flex",
