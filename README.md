@@ -154,7 +154,7 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 <tr align="center">
  <td>
 
-#### Dhruv Pratap Singh
+#### Prakhar Kumar Singh
 
 <p align="center">
 <img src = "https://media.licdn.com/dms/image/v2/D4D03AQHL32wwHfqFng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726068058952?e=1751500800&v=beta&t=fBrYqODJtazO2xbvVl9FLMgM-IfoSqtqHVigkyxjxyo"  height="120" alt="Dhruv Pratap Singh">
@@ -170,7 +170,7 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 
  <td>
 
-#### Manas Joshi
+#### Akshat Sinha
 
 <p align="center">
 <img src = "https://media.licdn.com/dms/image/v2/D5603AQFS-uSiq8aIIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705914887851?e=1751500800&v=beta&t=7ekBYTQYWbIEMHOhrf-KAwQ4MGx1GvRIBSP2ARiYbd8"  height="120" alt="Manas Joshi">
@@ -185,7 +185,7 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 
  <td>
 
-#### Harsh Kumar Banka
+#### Satvik Bajpai
 
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/u/56753150?v=4"  height="120" alt="Harsh Kumar Banka">
